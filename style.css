@@ -1,11 +1,64 @@
-html {background-color: beige;}
-* {text-align: center;}
-h1 {font-family: caveat, sans-serif;}
-h2 {font-family: caveat, sans-serif;}
-hr {border: 2px solid brown;}
-.links {font-size: x-small;}
-.project-links {color: brown;}
+#first-div{
+    background-color: #DEB887;
+    width: 100%;
+    height: 700px;
+    padding: 50px;
+}
 
-img {border: 5px solid black; max-width: 100%;}
+* {
+    margin: 0px;
+}
 
+.plants {
+    position: relative;
+    left: 80%;
+    width: 100px;
+}
 
+.set1 {
+    display: inline-block;
+    height: 200px;
+    margin-top: 100px;
+}
+
+.upper-content{
+    font-family: 'prata', 'sans-serif';
+    color: #40434E;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+#second-div{
+    position: relative;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.mid-content {
+    height: 200px;
+    font-family: 'Mate SC', 'sans-serif';
+    font-size: 2rem;
+    color: #BDB76B;
+    
+}
+
+#hedgehog {
+    position: relative
+}
+
+#hat {
+    height: 100px;
+    position: absolute;
+    top: -10px;
+    left: 46.5%;
+    
+
+}
+
+h3 {
+    font-family: Zilla Slab, sans-serif;
+}
